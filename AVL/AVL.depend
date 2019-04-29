@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540286899 source:c:\users\asif bashir\onedrive\ds\avl\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<algorithm>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542798266 source:c:\users\asif bashir\desktop\test\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1544222368 source:c:\users\asif bashir\onedrive\ds\sorting algorithms\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
